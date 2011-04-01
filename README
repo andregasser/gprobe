@@ -1,0 +1,32 @@
+------------------------------
+GProbe
+Version 0.1
+Developed by André Gasser 2011
+------------------------------
+
+
+1. introduction
+---------------
+Welcome to my small port scanner project. I decided to start
+developing a basic port scanner in C++ mainly for educational
+reasons. It is based on C++ code and I share this code with
+everyone.
+
+
+2. Project Status
+-----------------
+This project is currently under development. Do not expect to
+see running code here all the time. I do my best to just commit
+working code, but sometimes it is just not possible.
+
+
+3. Contribution
+---------------
+If you like to contribute to my project, I would be interested
+to hear from you. Just let me know and drop me a message.
+
+
+I post important updates to this project here.
+
+Thank you,
+André Gasser
